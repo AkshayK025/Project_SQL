@@ -18,7 +18,7 @@ FROM
 GROUP BY
     defect
 HAVING
-    (Jul + Aug + Sep + Oct + Nov + Dece) > 0
+    (Jul + Aug + Sep + Oct + Nov + Dece) > 45
 ORDER BY
     Jul + Aug + Sep + Oct + Nov + Dece DESC
 LIMIT 10;
