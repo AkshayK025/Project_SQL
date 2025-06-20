@@ -175,3 +175,10 @@ LIMIT 10;
 
 ## 🔍 Analysis: Defect Trends
 - **Poor Paintwork defects** dominate across all months, **peaking sharply in August** with **4,240 defects** before declining towards December.
+
+
+
+
+## Disclaimer
+Casual version
+Note: This dataset is made up for practice and learning. It’s inspired by real-life examples but doesn’t represent any actual company or production data.
