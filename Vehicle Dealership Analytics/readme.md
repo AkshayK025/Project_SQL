@@ -358,3 +358,8 @@ This table lists each vehicle's most recent service date and the associated cost
 | 2          | 2023-01-15           | 150.00 |
 | 3          | 2023-06-20           | 180.00 |
 | 5          | 2024-10-10           | 250.00 |
+
+
+
+## Disclaimer
+Note: This dataset is made up for practice and learning with the help of AI tools. It’s inspired by real-life examples but doesn’t represent any actual company data.

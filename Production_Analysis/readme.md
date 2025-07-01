@@ -180,5 +180,4 @@ LIMIT 10;
 
 
 ## Disclaimer
-Casual version
-Note: This dataset is made up for practice and learning. It’s inspired by real-life examples but doesn’t represent any actual company or production data.
+Note: This dataset is made up for practice and learning with the help of AI tools. It’s inspired by real-life examples but doesn’t represent any actual company or production data.
